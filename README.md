@@ -3,7 +3,9 @@
 Developed via python script, running on mac, either with webcam, or with videos.
 
 
-## Non AI based algorithm
+## Non AI based algorithm 
+
+folder: KCF_tracker
 
 ### Flow
 
@@ -20,6 +22,8 @@ Developed via python script, running on mac, either with webcam, or with videos.
 6. Get direction of moving object
 
 ## AI based algorithm
+
+folder: yolo_object_detection
 
 ### Flow
 
